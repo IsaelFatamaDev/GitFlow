@@ -1,9 +1,8 @@
+Historial de Comandos
 
-  Id     Duration CommandLine
-  --     -------- -----------
+
    1        1.022 git clone https://github.com/IsaelFatamaDev/GitFlow.git
    2        0.012 cd .\GitFlow\
    3        0.063 git checkout develop
    4       16.159 git flow init
    5        1.857 git flow feature start test1
-
